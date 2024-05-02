@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "myfont";
+    src: url("/fonts/JacquesFrancoisShadow-Regular.ttf");
+}
+
+@font-face {
+    font-family: "myfont1";
+    src: url(/fonts/OriginalSurfer-Regular.ttf);
+}
+@font-face {
+    font-family: "myfont2";
+    src: url(/fonts/Play-Regular.ttf);
+}
+.par{
+    font-family: "myfont";
+    font-weight: 400;
+    font-size: 20px;
+}
+.par1{
+    font-family: "myfont1";
+    font-weight: 400;
+    font-size: 16px;
+}
+.par2{
+    font-family: "myfont2";
+    font-weight: 400;
+    font-size: 16px;
+    text-align: justify;
+}
